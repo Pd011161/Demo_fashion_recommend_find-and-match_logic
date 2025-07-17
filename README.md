@@ -1,7 +1,13 @@
 # 🧥 Fashion Finding and Matching
 
+🎬 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/86ZSeTXFCJk/hqdefault.jpg)](https://youtu.be/86ZSeTXFCJk)
+
+
 A Jupyter Notebook for image-based fashion product searching and outfit style matching using FashionCLIP embeddings.
-[link](https://colab.research.google.com/drive/1QbWKW1QuVNCwPW-H08oT6YuKV32R-1X8?usp=sharing)
+
+[Colab-notebook link](https://colab.research.google.com/drive/1QbWKW1QuVNCwPW-H08oT6YuKV32R-1X8?usp=sharing)
 
 ---
 
