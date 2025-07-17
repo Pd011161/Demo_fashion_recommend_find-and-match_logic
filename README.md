@@ -2,8 +2,7 @@
 
 🎬 Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/86ZSeTXFCJk/hqdefault.jpg)](https://youtu.be/86ZSeTXFCJk)
-
+[![Watch the demo](https://img.youtube.com/vi/K8IeiCZmeL0/hqdefault.jpg)](https://youtu.be/K8IeiCZmeL0)
 
 A Jupyter Notebook for image-based fashion product searching and outfit style matching using FashionCLIP embeddings.
 
